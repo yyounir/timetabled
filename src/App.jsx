@@ -5,8 +5,8 @@ function App() {
 
   return (
     <div>
-      <h1>TimeTabled</h1>  
-      <h2>Set Schedule and Get Organized</h2>
+      <h1>NYC Timetable</h1>  
+      <h2>Set Visits and Get Organized</h2>
       <Calendar />
     </div>
   )
