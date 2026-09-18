@@ -1,3 +1,5 @@
+import Event from "./Event"
+
 const Calendar = () =>{
     return (
         <div className = "Calendar">
@@ -19,7 +21,7 @@ const Calendar = () =>{
                         <td className="time">8am</td>
                         <td></td>
                         <td></td> 
-                        <td></td> 
+                        <Event/>
                         <td></td> 
                         <td></td> 
                         <td></td> 
