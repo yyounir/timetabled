@@ -1,7 +1,9 @@
 const Calendar = () =>{
     return (
         <div className = "Calendar">
-            Testing the calendar component
+            <table>
+                
+            </table>
         </div>
     )
 }
