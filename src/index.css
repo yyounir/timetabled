@@ -19,3 +19,27 @@ td {
 .time {
   height: 40px;
 }
+
+.pink{
+  background-color: pink;
+}
+
+.red{
+  background-color: hsl(0, 100%, 75%);
+}
+
+.orange{
+  background-color: hsl(39, 100%, 75%);
+}
+
+.yellow{
+  background-color: hsl(60, 100%, 75%);
+}
+
+.green{
+  background-color: hsl(120, 100%, 75%);
+}
+
+.blue{
+  background-color: hsl(240, 100%, 75%);
+}
